@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Angry Nerds Threat model",
+    "owner": "Dylan Taelemans",
+    "description": "De technologieën die wij zullen gebruiken om de website te bouwen:\ndatabase: mysql\nprogrammeertaal: ASP .NET\nframework Blog : ASP .NET Razor"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Maureen muys"
+  }
+}
